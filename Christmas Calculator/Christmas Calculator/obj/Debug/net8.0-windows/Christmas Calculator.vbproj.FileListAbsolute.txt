@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\bin\Debug\net8.0-windows\Christmas Calculator.exe
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\bin\Debug\net8.0-windows\Christmas Calculator.deps.json
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\bin\Debug\net8.0-windows\Christmas Calculator.runtimeconfig.json
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\bin\Debug\net8.0-windows\Christmas Calculator.dll
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\bin\Debug\net8.0-windows\Christmas Calculator.pdb
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\Christmas_Calculator.Form1.resources
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\Christmas Calculator.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\Christmas Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\Christmas Calculator.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\Christmas Calculator.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\Christmas Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\Christmas Calculator.dll
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\refint\Christmas Calculator.dll
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\Christmas Calculator.pdb
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\Christmas Calculator.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\ref\Christmas Calculator.dll
