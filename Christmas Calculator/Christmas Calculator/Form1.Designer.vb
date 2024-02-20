@@ -73,7 +73,7 @@ Partial Class Form1
         Controls.Add(dtpToday)
         Controls.Add(Label1)
         Name = "Form1"
-        Text = "Form1"
+        Text = "Christmas Calculator"
         ResumeLayout(False)
         PerformLayout()
     End Sub

@@ -14,3 +14,4 @@ C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calc
 C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\Christmas Calculator.pdb
 C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\Christmas Calculator.genruntimeconfig.cache
 C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\ref\Christmas Calculator.dll
+C:\Users\ihsaa\Projects\christmas-calculator\Christmas Calculator\Christmas Calculator\obj\Debug\net8.0-windows\Christmas Calculator.sourcelink.json
